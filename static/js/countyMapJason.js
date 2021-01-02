@@ -25,7 +25,7 @@ function renderChoropleth(year) {
     maxZoom: 18,
     zoomOffset: -1,
     id: "mapbox/light-v10",
-    accessToken: API_KEY
+    accessToken: "pk.eyJ1IjoiY2t1bmFrb20iLCJhIjoiY2tmeWFtd3NtMDJtcTMxcGlwcmYzanZkYSJ9.Q8sNDdN5T7hZKmwfbzHjqA"
   }).addTo(myMap);
 
 
